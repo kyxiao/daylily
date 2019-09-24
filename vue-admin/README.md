@@ -37,9 +37,3 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-### 接口
-```
-http://localhost:8080/getUserMap
-```
